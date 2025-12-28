@@ -16,3 +16,6 @@ A small set of PowerShell scripts designed to automate common Tier 1 / Tier 2 he
 
 ## How to Run
 See: `docs/how-to-run-scripts.md`
+
+## Related Repository
+- Helpdesk Automation Toolkit (PowerShell): <link>
